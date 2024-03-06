@@ -1,0 +1,167 @@
+[
+  {
+    "id": 1,
+    "statement": "What is the main entry point of a Dart console application?",
+    "options": [
+      "main.dart",
+      "index.dart",
+      "app.dart",
+      "start.dart"
+    ],
+    "answer": "main.dart"
+  },
+  {
+    "id": 2,
+    "statement": "What is the primary tool for managing dependencies in Dart projects?",
+    "options": [
+      "npm",
+      "Gradle",
+      "Pub",
+      "Pip"
+    ],
+    "answer": "Pub"
+  },
+  {
+    "id": 3,
+    "statement": "Which programming paradigm does Dart support?",
+    "options": [
+      "Procedural",
+      "Object-Oriented",
+      "Functional",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 4,
+    "statement": "What keyword is used to declare a constant in Dart?",
+    "options": [
+      "final",
+      "const",
+      "let",
+      "var"
+    ],
+    "answer": "const"
+  },
+  {
+    "id": 5,
+    "statement": "What is the purpose of the 'async' and 'await' keywords in Dart?",
+    "options": [
+      "To declare a variable as constant",
+      "To handle exceptions in asynchronous code",
+      "To specify a function as synchronous",
+      "To pause code execution until an asynchronous operation completes"
+    ],
+    "answer": "To pause code execution until an asynchronous operation completes"
+  },
+  {
+    "id": 6,
+    "statement": "What does the 'if __name__ == '__main__':' construct indicate in a Python script?",
+    "options": [
+      "It defines a class.",
+      "It specifies the module's name.",
+      "It checks if the script is run as the main program.",
+      "It defines a function."
+    ],
+    "answer": "It checks if the script is run as the main program."
+  },
+  {
+    "id": 7,
+    "statement": "Which keyword is used to define a function in Python?",
+    "options": [
+      "func",
+      "method",
+      "def",
+      "function"
+    ],
+    "answer": "def"
+  },
+  {
+    "id": 8,
+    "statement": "What is the output of 'print('Hello, ' + 'World!')' in Python?",
+    "options": [
+      "Hello, World!",
+      "Hello, + World!",
+      "Hello,World!",
+      "Error"
+    ],
+    "answer": "Hello, World!"
+  },
+  {
+    "id": 9,
+    "statement": "How do you comment out multiple lines in Python?",
+    "options": [
+      "// This is a comment",
+      "/* This is a comment */",
+      "# This is a comment",
+      "<!-- This is a comment -->"
+    ],
+    "answer": "/* This is a comment */"
+  },
+  {
+    "id": 10,
+    "statement": "Which of the following is not a valid Python data type?",
+    "options": [
+      "List",
+      "Tuple",
+      "Dictionary",
+      "Set"
+    ],
+    "answer": "Set"
+  },
+  {
+    "id": 11,
+    "statement": "What does the '===' operator do in JavaScript?",
+    "options": [
+      "It performs strict equality comparison.",
+      "It assigns a value to a variable.",
+      "It concatenates strings.",
+      "It multiplies numbers."
+    ],
+    "answer": "It performs strict equality comparison."
+  },
+  {
+    "id": 12,
+    "statement": "What function is used to convert a string to an integer in JavaScript?",
+    "options": [
+      "parseFloat()",
+      "toInt()",
+      "parseInt()",
+      "convertInt()"
+    ],
+    "answer": "parseInt()"
+  },
+  {
+    "id": 13,
+    "statement": "Which of the following is not a valid way to declare a variable in JavaScript?",
+    "options": [
+      "var",
+      "let",
+      "const",
+      "variable"
+    ],
+    "answer": "variable"
+  },
+  {
+    "id": 14,
+    "statement": "What is the purpose of the 'typeof' operator in JavaScript?",
+    "options": [
+      "To check if a variable is undefined",
+      "To determine the data type of a value",
+      "To define a new function",
+      "To loop through an array"
+    ],
+    "answer": "To determine the data type of a value"
+  },
+  {
+    "id": 15,
+    "statement": "How do you add a comment in JavaScript?",
+    "options": [
+      "// This is a comment",
+      "/* This is a comment */",
+      "# This is a comment",
+      "<!-- This is a comment -->"
+    ],
+    "answer": "// This is a comment"
+  }
+]
