@@ -8,7 +8,6 @@ function Input() {
     let input = prompt()
     let idno = parseInt(input("Please Enter Serial Number: "))
     if (idno==1) {
-        //console.log(data);
         allQuestions()
         Input()
  
@@ -34,9 +33,6 @@ function Input() {
                 Input()
                 
             } 
-            // else{
-            //     console.log("Enter Valid ID");
-            // }
         }
         if(!found){
             console.log("Enter Valid ID");
